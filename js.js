@@ -1,4 +1,8 @@
 // JavaScript Document
+
+//Referências
+//http://learn.jquery.com/using-jquery-core/document-ready/
+
 $( document ).ready(function() {
     $(".shopping").css({ opacity: 0.5 });
 	
