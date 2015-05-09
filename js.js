@@ -1,7 +1,13 @@
 // JavaScript Document
 
-//Referências
-//http://learn.jquery.com/using-jquery-core/document-ready/
+/*
+
+Referências
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+http://learn.jquery.com/using-jquery-core/document-ready/
+
+*/
+
 
 $( document ).ready(function() {
     $(".shopping").css({ opacity: 0.5 });
